@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 400px;
+    width: 300px;
+    border: 3px solid grey;
+    border-radius: 5px;
+    padding: 20px 0;
+    background-color: lightblue;
+    
+}
+.displayScreen{
+    width: 90%;
+    height: 80px;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+button{
+    padding: 7px 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
