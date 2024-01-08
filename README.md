@@ -1,1 +1,1 @@
-# Jack-n-Poy-Game created using Javascript
+# Online Jack-n-Poy-Game created using Javascript
